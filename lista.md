@@ -97,7 +97,8 @@ ___
 [Science Blogs](http://scienceblogs.com.br)  
 [Sobrevivendo na Ciência](https://marcoarmello.wordpress.com/)  
 [Universidade das Crianças](http://www.universidadedascriancas.org)  
-  
+[Uma bióloga](https://umabiologa.blogspot.com/) 
+
 ## Podcasts  
   
 [4curiosos](https://soundcloud.com/user-766096508)  
@@ -115,6 +116,7 @@ ___
 [O Nicho](https://onichopodcast.wordpress.com/)  
 [Oxigênio](http://oxigenio.comciencia.br/)  
 [PODEntender](http://dragoesdegaragem.com/podentender/)  
+[Podcast Unesp](https://podcast.unesp.br/)  
 [Rock com Ciência](http://www.rockcomciencia.com.br)  
 [Scicast](http://www.deviante.com.br/podcasts/scicast/)  
 [Sociedade Brasileira de Nefrologia](http://www.deviante.com.br/podcasts/sociedade-brasileira-de-nefrologia/)  
